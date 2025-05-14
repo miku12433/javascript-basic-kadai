@@ -1,1 +1,5 @@
-console.log( 68 / 1.7 ** 2)
+let bodyWeight = 68;
+
+let height = 1.7;
+
+console.log( bodyWeight / height ** 2);
